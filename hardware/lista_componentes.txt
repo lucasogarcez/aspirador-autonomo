@@ -1,0 +1,24 @@
+# Lista de componentes utilizados (em evolução)
+
+[Controle e Processamento]
+- ESP32 DevKit v1
+- Arduino Uno R3 (opcional)
+
+[Sensores]
+- VL53L0X (ToF)
+- HC-SR04 (ultrassônico)
+- Encoders magnéticos para odometria
+
+[Atuadores]
+- Motores DC com redutor
+- Ponte H (L298N ou DRV8833)
+
+[Bateria]
+- 3x células Li-ion 18650
+- Módulo BMS 3S 10A
+- Regulador buck 5V
+
+[Outros]
+- Chave liga/desliga
+- LEDs indicadores
+- Base de recarga (em desenvolvimento)
